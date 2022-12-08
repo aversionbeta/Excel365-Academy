@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:type="TaskPaneApp">
+    <Id>08afd7fe-1631-42f4-84f1-5ba51e242f98</Id>
+    <Version>1.0</Version>
+    <ProviderName>Tracy Syrstad</ProviderName>
+    <DefaultLocale>EN-US</DefaultLocale>
+    <DisplayName DefaultValue="Hello World app"/>
+    <Description DefaultValue="My first app."/>
+    <IconUrl DefaultValue=
+        "\\tracy-win10pc\excel 2019 workbooks\hello world\icon.jpg"/>
+    <Capabilities>
+        <Capability Name="Document"/>
+        <Capability Name="Workbook"/>
+    </Capabilities>
+
+    <DefaultSettings>
+    [em][em][em]<SourceLocation DefaultValue="\\TRACY-WIN10PC\Excel 2019 Workbooks\Hello World\HelloWorld.html"/>
+    </DefaultSettings>
+    <Permissions>ReadWriteDocument</Permissions>
+</OfficeApp>

@@ -1,0 +1,73 @@
+Region  |Product   |Date   |Customer    |Quantity |  Revenue |COGS |Profit
+West    |ABC       |4/20/15|OPQ, INC.   |      800|     13552| 6776| 6776
+East    |XYZ       |6/14/15|DEF, LLC    |      700|     11858| 5929| 5929
+East    |ABC       |11/3/15|LMN PTY LTD |      800|     13552| 6776| 6776
+West    |XYZ       |2/11/15|DEF, LLC    |      200|      3390| 1694| 1696
+East    |XYZ       |3/16/15|OPQ, INC.   |      200|      3390| 1694| 1696
+Central |ABC       | 6/7/15|TUV GMBH    |      900|     15255| 7623| 7632
+West    |ABC       |10/3/15|FGH LTD.    |      900|     15255| 7623| 7632
+West    |ABC       | 5/6/15|LMN PTY LTD |      700|     13797| 6888| 6909
+East    |DEF       |5/14/15|WXY, CO     |      700|     13797| 6888| 6909
+West    |DEF       |6/23/15|EFG S.A.    |      200|      3942| 1968| 1974
+East    |XYZ       | 1/4/15|TUV GMBH    |      300|      5094| 2541| 2553
+East    |XYZ       |9/20/14|JKL, CO     |     1000|     20490|10220|10270
+East    |ABC       |9/18/15|LMN INC.    |     1000|     20490|10220|10270
+East    |DEF       |12/9/14|VWX GMBH    |      900|     17757| 8856| 8901
+Central |ABC       |6/14/15|WXY, CO     |      900|     17757| 8856| 8901
+East    |DEF       |2/15/15|FGH LTD.    |      800|     15816| 7872| 7944
+Central |ABC       |7/18/15|HIJ GMBH    |      800|     15816| 7872| 7944
+East    |DEF       |6/20/15|WXY, CO     |      500|      9890| 4920| 4970
+East    |DEF       | 7/3/15|TUV GMBH    |      500|      9890| 4920| 4970
+West    |ABC       |10/3/14|FGH LTD.    |      100|      1704|  847|  857
+Central |XYZ       |1/30/15|EFG S.A.    |      100|      1704|  847|  857
+East    |DEF       | 9/6/14|LMN PTY LTD |      700|     13867| 6888| 6979
+West    |DEF       |4/15/15|TUV GMBH    |      700|     13867| 6888| 6979
+Central |XYZ       | 4/6/15|LMN PTY LTD |      100|      2058| 1022| 1036
+Central |DEF       |1/16/15|HIJ GMBH    |      800|     15856| 7872| 7984
+West    |XYZ       |6/29/15|DEF, LLC    |      800|     15856| 7872| 7984
+East    |ABC       |10/2/15|TUV GMBH    |      800|     15856| 7872| 7984
+Central |ABC       |7/21/15|FGH LTD.    |      900|     15363| 7623| 7740
+East    |ABC       |10/1/15|WXY, CO     |      900|     15363| 7623| 7740
+Central |XYZ       |10/4/14|DEF, LLC    |      200|      4124| 2044| 2080
+West    |XYZ       |11/8/14|OPQ, INC.   |      200|      3418| 1694| 1724
+West    |ABC       |2/25/15|OPQ, INC.   |      200|      3418| 1694| 1724
+East    |XYZ       | 8/9/14|DEF, LLC    |      300|      5961| 2952| 3009
+West    |XYZ       |3/24/15|HIJ GMBH    |      300|      5961| 2952| 3009
+West    |DEF       |6/14/15|LMN PTY LTD |      700|     14469| 7154| 7315
+Central |ABC       |7/28/14|EFG S.A.    |      400|      6860| 3388| 3472
+East    |XYZ       |4/28/15|DEF, LLC    |      400|      6860| 3388| 3472
+West    |DEF       |4/29/15|TUV GMBH    |      600|     10290| 5082| 5208
+Central |ABC       |7/21/15|FGH LTD.    |      600|     10290| 5082| 5208
+West    |DEF       |3/31/15|LMN PTY LTD |      400|      8284| 4088| 4196
+West    |XYZ       |6/27/15|LMN PTY LTD |      400|      8284| 4088| 4196
+West    |XYZ       |7/16/15|JKL, CO     |      900|     18666| 9198| 9468
+Central |ABC       |7/20/15|FGH LTD.    |      900|     18666| 9198| 9468
+Central |ABC       | 9/1/14|FGH LTD.    |      300|      5157| 2541| 2616
+West    |XYZ       |3/29/15|JKL, CO     |      300|      5157| 2541| 2616
+West    |ABC       | 5/6/15|RST S.A.    |     1000|     17190| 8470| 8720
+Central |ABC       |4/14/15|FGH LTD.    |     1000|     17200| 8470| 8730
+Central |DEF       |5/18/15|WXY, CO     |      400|      6880| 3388| 3492
+West    |ABC       |6/12/15|OPQ, INC.   |      400|      6880| 3388| 3492
+West    |ABC       |7/29/15|EFG S.A.    |     1000|     17200| 8470| 8730
+East    |DEF       | 2/3/15|TUV GMBH    |      500|     10380| 5110| 5270
+East    |XYZ       |3/12/15|HIJ GMBH    |      900|     18684| 9198| 9486
+East    |XYZ       | 7/7/15|QRS INC.    |      500|     10380| 5110| 5270
+Central |XYZ       |12/8/14|WXY, CO     |      500|     10385| 5110| 5275
+East    |DEF       |2/23/15|LMN PTY LTD |      500|     10385| 5110| 5275
+Central |DEF       |1/14/15|TUV GMBH    |     1000|     20020| 9840|10180
+Central |ABC       |5/17/15|TUV GMBH    |      800|     16016| 7872| 8144
+Central |XYZ       |9/25/15|DEF, LLC    |     1000|     20020| 9840|10180
+West    |DEF       | 2/9/15|TUV GMBH    |      500|     10400| 5110| 5290
+East    |DEF       | 4/1/15|QRS INC.    |      600|     12480| 6132| 6348
+Central |XYZ       |4/21/15|FGH LTD.    |      600|     12480| 6132| 6348
+East    |XYZ       |9/27/14|FGH LTD.    |      100|      2004|  984| 1020
+Central |DEF       |6/20/15|FGH LTD.    |      100|      2004|  984| 1020
+West    |ABC       | 6/8/15|XYZ GMBH    |     1000|     17250| 8470| 8780
+West    |DEF       | 3/6/15|EFG S.A.    |      600|     12030| 5904| 6126
+West    |DEF       |6/16/15|JKL, CO     |      600|     12030| 5904| 6126
+East    |XYZ       |3/17/15|OPQ, INC.   |      300|      6018| 2952| 3066
+East    |XYZ       | 7/1/15|HIJ GMBH    |      900|     18756| 9198| 9558
+East    |ABC       |7/19/15|CDE INC.    |      900|     18756| 9198| 9558
+West    |XYZ       |2/21/15|DEF, LLC    |      600|     12048| 5904| 6144
+West    |ABC       | 9/8/15|UVW, INC.   |     1000|     20090| 9840|10250
+Central |XYZ       |10/7/14|LMN PTY LTD |      900|     18783| 9198| 9585

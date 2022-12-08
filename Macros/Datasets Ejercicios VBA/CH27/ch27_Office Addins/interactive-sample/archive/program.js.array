@@ -1,0 +1,74 @@
+Office.initialize = function (reason) {
+//Add any needed initialization
+}
+//declare and set the values of an array
+var MyArray = [[234],[56],[1798], [52358]];
+
+//write MyArray contents to the active sheet
+function writeData() {
+    Office.context.document.setSelectedDataAsync(MyArray, {coercionType: 'matrix'});
+}
+
+function ReadData() {
+/* 	var MyArray = ['first value', 'second value', 3]
+	
+
+arrayOutput = ""
+
+for (i in MyArray) {
+    arrayOutput += MyArray[i] + '\n'
+    }
+
+document.getElementById("results").innerText =  arrayOutput */
+/*	
+    Office.context.document.getSelectedDataAsync("matrix", function (result) {
+
+    if (result.status === "succeeded"){
+
+       sumData(result.value);
+        }
+
+        else{
+            document.getElementById("results").innerText = result.error.name;
+        }
+    });*/
+	
+	result = 0
+arrayOutput = ""
+arrNums = [9, -16, 25, -34, 28.9]
+result = arrNums.map(Math.abs)
+for (i in result){
+    arrayOutput += result[i] +'\n'
+}
+document.getElementById("results").innerText = arrayOutput
+
+}
+
+/*
+function sumData(data) {
+
+    var printOut = 0;
+
+//sum together all the values in the selected range
+    for (var x = 0 ; x < data.length; x++) {
+        for (var y = 0; y < data[x].length; y++) {
+            printOut += data[x][y];
+        }
+    }
+//print results in task pane
+    document.getElementById("results").innerText = printOut;
+*/	
+/*
+	var MyArray = 'first value', 'second value', 3]
+	
+
+arrayOutput = ""
+
+for (i in MyArray) {
+    arrayOutput += MyArray[i] + '\n'
+    }
+
+document.getElementById("results").innerText =  arrayOutput
+	
+}
+*/
